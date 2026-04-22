@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722347163625",
+    "project_id": "wood-star-55d26",
+    "storage_bucket": "wood-star-55d26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722347163625:android:431b5b97538ac056f55578",
+        "android_client_info": {
+          "package_name": "com.example.wood_star_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXDiITgzgHm2oqX075m8upvgSX5cfY3rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
